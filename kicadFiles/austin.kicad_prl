@@ -71,23 +71,11 @@
         "open": false,
         "window": {
           "display": 1,
-          "maximized": true,
-          "pos_x": 2758,
-          "pos_y": 347,
+          "maximized": false,
+          "pos_x": 2425,
+          "pos_y": 724,
           "size_x": 662,
           "size_y": 564
-        }
-      },
-      {
-        "name": "austin.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 2,
-          "maximized": true,
-          "pos_x": 717,
-          "pos_y": 310,
-          "size_x": 500,
-          "size_y": 400
         }
       },
       {
