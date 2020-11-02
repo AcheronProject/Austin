@@ -50,14 +50,14 @@
       },
       "diff_pair_dimensions": [
         {
-          "gap": 0.254,
-          "via_gap": 0.25,
-          "width": 0.254
-        },
-        {
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.254,
+          "via_gap": 0.0,
+          "width": 0.1524
         }
       ],
       "drc_exclusions": [],
@@ -69,6 +69,8 @@
         "clearance": "error",
         "copper_edge_clearance": "error",
         "courtyards_overlap": "error",
+        "diff_pair_gap_out_of_range": "error",
+        "diff_pair_uncoupled_length_too_long": "error",
         "drill_too_small": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
@@ -78,6 +80,7 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "keepout": "error",
+        "length_out_of_range": "error",
         "malformed_courtyard": "error",
         "microvia_drill_too_small": "error",
         "missing_courtyard": "ignore",
@@ -87,6 +90,10 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
+        "silk_over_copper": "error",
+        "silk_overlap": "error",
+        "skew_out_of_range": "error",
+        "too_many_vias": "error",
         "track_dangling": "warning",
         "track_width": "error",
         "tracks_crossing": "error",
@@ -108,6 +115,7 @@
         "min_hole_to_hole": 0.254,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
+        "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.30479999999999996,
         "min_track_width": 0.15239999999999998,
         "min_via_annular_width": 0.049999999999999996,
@@ -119,6 +127,7 @@
         "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
+        0.0,
         0.1524,
         0.254,
         0.508,
@@ -126,8 +135,8 @@
       ],
       "via_dimensions": [
         {
-          "diameter": 0.508,
-          "drill": 0.3048
+          "diameter": 0.0,
+          "drill": 0.0
         },
         {
           "diameter": 0.8128,
@@ -303,6 +312,7 @@
       "global_label_dangling": "error",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
+      "lib_symbol_issues": "warning",
       "multiple_net_names": "error",
       "net_not_bus_member": "error",
       "no_connect_connected": "error",
@@ -328,9 +338,9 @@
       {
         "bus_width": 12.0,
         "clearance": 0.1524,
-        "diff_pair_gap": 0.254,
+        "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.254,
+        "diff_pair_width": 0.1524,
         "line_style": 0,
         "microvia_diameter": 0.3048,
         "microvia_drill": 0.1016,
@@ -339,7 +349,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.1524,
         "via_diameter": 0.508,
-        "via_drill": 0.3048,
+        "via_drill": 0.4,
         "wire_width": 6.0
       }
     ],
@@ -355,7 +365,8 @@
       "netlist": "db01.net",
       "specctra_dsn": "",
       "step": "",
-      "vmrl": ""
+      "vmrl": "",
+      "vrml": ""
     },
     "page_layout_descr_file": ""
   },
@@ -388,6 +399,10 @@
           "visible": false
         }
       ],
+      "intersheets_ref_prefix": "",
+      "intersheets_ref_short": false,
+      "intersheets_ref_show": false,
+      "intersheets_ref_suffix": "",
       "pin_symbol_size": 25.0,
       "text_offset_ratio": 0.3
     },
@@ -406,7 +421,7 @@
   },
   "sheets": [
     [
-      "bdb60ac3-3aff-4cda-be15-b5036c93cf95",
+      "d0de3fcb-454f-401d-82cb-342438588efa",
       ""
     ]
   ],
