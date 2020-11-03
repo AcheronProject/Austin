@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.9878,
-          "height": 3.9878,
-          "width": 3.9878
+          "drill": 0.0,
+          "height": 0.3,
+          "width": 1.8
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.15239999999999998
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -139,7 +139,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.8128,
+          "diameter": 0.508,
           "drill": 0.3048
         }
       ],
@@ -320,6 +320,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "error",
+      "power_pin_not_driven": "error",
       "similar_labels": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -421,7 +422,7 @@
   },
   "sheets": [
     [
-      "d0de3fcb-454f-401d-82cb-342438588efa",
+      "e3a99eb3-1dc9-4e7c-85e9-a8ce3f93f2e2",
       ""
     ]
   ],
