@@ -6,4 +6,5 @@
   (lib (name "austinLogo")(type "KiCad")(uri "/home/alvaro/Desktop/AcheronProject/Austin/graphics/austinLogo.pretty")(options "")(descr ""))
   (lib (name "acheron_MX")(type "KiCad")(uri "${ACHERONLIB}/footprints/acheron_MX_SolderMask.pretty")(options "")(descr ""))
   (lib (name "acheron_Graphics")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_Graphics.pretty")(options "")(descr ""))
+  (lib (name "acheron_MXH")(type "KiCad")(uri "${ACHERONLIB}/footprints/acheron_MXH.pretty")(options "")(descr ""))
 )

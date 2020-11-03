@@ -6,8 +6,8 @@
 
   (title_block
     (title "AustinPCB")
-    (date "2020-11-02")
-    (rev "v2.0.4")
+    (date "2020-11-03")
+    (rev "v2.0.5")
     (company "Designed by Gondolindrim")
     (comment 1 "In partnership with driftingbunnies and PheonixStar")
   )
@@ -2991,8 +2991,8 @@
   (junction (at 1123.95 515.62) (diameter 1.016) (color 0 0 0 0))
 
   (no_connect (at 234.315 304.165))
-  (no_connect (at 234.315 301.625))
   (no_connect (at 730.25 319.405))
+  (no_connect (at 234.315 301.625))
 
   (wire (pts (xy 44.45 35.56) (xy 66.04 35.56))
     (stroke (width 0) (type solid) (color 0 0 0 0))
@@ -10627,7 +10627,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 266.7 364.49 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "00000000-0000-0000-0000-00005d596b36")
     (property "Reference" "L1" (id 0) (at 269.24 363.3216 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10644,7 +10644,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 266.7 369.57 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "00000000-0000-0000-0000-00005c525928")
     (property "Reference" "L2" (id 0) (at 269.24 368.4016 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10661,7 +10661,7 @@
   )
 
   (symbol (lib_name "Mechanical:MountingHole_1") (lib_id "Mechanical:MountingHole") (at 266.7 375.285 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "00000000-0000-0000-0000-00005c66b5d5")
     (property "Reference" "L3" (id 0) (at 269.24 374.1166 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10678,7 +10678,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 266.7 380.365 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid "00000000-0000-0000-0000-00005d1c668a")
     (property "Reference" "L4" (id 0) (at 269.24 379.1966 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -10690,6 +10690,23 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 266.7 380.365 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+  )
+
+  (symbol (lib_id "Mechanical:MountingHole") (at 266.7 386.08 0) (unit 1)
+    (in_bom no) (on_board yes)
+    (uuid "6dd2211e-f77c-4e38-904a-26c891874e38")
+    (property "Reference" "L5" (id 0) (at 269.24 384.9116 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "AustinLabel" (id 1) (at 269.24 387.223 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "austinLogo:austinLabel" (id 2) (at 266.7 386.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (id 3) (at 266.7 386.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
   )
@@ -19414,6 +19431,9 @@
     )
     (path "/00000000-0000-0000-0000-00005d1c668a"
       (reference "L4") (unit 1) (value "AustinLogoPlated") (footprint "austinLogo:austinLogo_16x40_Plated")
+    )
+    (path "/6dd2211e-f77c-4e38-904a-26c891874e38"
+      (reference "L5") (unit 1) (value "AustinLabel") (footprint "austinLogo:austinLabel")
     )
     (path "/00000000-0000-0000-0000-00005d1ebf5b"
       (reference "LED1") (unit 1) (value "LED") (footprint "acheronComponents:LED_THT_2.54mm")
