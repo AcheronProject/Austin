@@ -74,7 +74,7 @@
         "drill_too_small": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
-        "hole_clearance": "error",
+        "hole_clearance": "warning",
         "hole_near_hole": "error",
         "invalid_outline": "error",
         "item_on_disabled_layer": "error",
@@ -90,8 +90,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "error",
-        "silk_overlap": "error",
+        "silk_over_copper": "warning",
+        "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -422,7 +422,7 @@
   },
   "sheets": [
     [
-      "1a1474a5-b856-45a0-a9c4-9c03ca267673",
+      "2fb5ada2-fbb6-4a37-a2dd-fb5a5d2de0a3",
       ""
     ]
   ],
