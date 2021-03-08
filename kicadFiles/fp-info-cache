@@ -1,316 +1,610 @@
-71929074367798
-acheronComponents
-ACM2012-2P
-
-
+139357106079808
+Diode_SMD
+D_0201_0603Metric
+Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+diode
 0
 4
-4
-acheronComponents
-CP_EIA-3216-10_Kemet-I_Pad1.58x1.35mm_HandSolder
-Tantalum Capacitor SMD Kemet-I (3216-10 Metric), IPC_7351 nominal, (Body size from: http://www.kemet.com/Lists/ProductCatalog/Attachments/253/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
-capacitor tantalum
-0
 2
-2
-acheronComponents
-C_0805_2012Metric
-Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-capacitor
-0
-2
-2
-acheronComponents
-Crystal_SMD_0603-2Pin_6.0x3.5mm
-SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, 6.0x3.5mm^2 package
-SMD SMT crystal
-0
-2
-2
-acheronComponents
-Crystal_SMD_2016-4Pin_2.0x1.6mm
-SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package
-SMD SMT crystal
+Diode_SMD
+D_0201_0603Metric_Castellated
+Diode SMD 0201 (0603 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+diode castellated
 0
 4
+2
+Diode_SMD
+D_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
 4
-acheronComponents
-Crystal_SMD_5032-2Pin
-SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, hand-soldering, 5.0x3.2mm^2 package
-SMD SMT crystal hand-soldering
+2
+Diode_SMD
+D_0402_1005Metric
+Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
 0
 2
 2
-acheronComponents
-Crystal_SMD_5032-2Pin_5.0x3.2mm
-SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
-SMD SMT crystal
+Diode_SMD
+D_0402_1005Metric_Castellated
+Diode SMD 0402 (1005 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
 0
 2
 2
-acheronComponents
-Crystal_SMD_5032-4Pin
-SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
-SMD SMT crystal
-0
-4
-4
-acheronComponents
-Crystal_SMD_5032-4Pin-HandSolder
-SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
-SMD SMT crystal
-0
-4
-4
-acheronComponents
-Crystal_SMD_5032-4Pin_5.0x3.2mm
-SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package
-SMD SMT crystal
-0
-4
-4
-acheronComponents
-D_DO-35_SOD27_P7.62mm
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+Diode_SMD
+D_0402_1005Metric_Pad0.77x0.64mm_HandSolder
+Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
 0
 2
 2
-acheronComponents
+Diode_SMD
+D_0603_1608Metric
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_0603_1608Metric_Castellated
+Diode SMD 0603 (1608 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_0805_2012Metric
+Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_0805_2012Metric_Castellated
+Diode SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_01005_0402Metric
+Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+diode
+0
+4
+2
+Diode_SMD
+D_01005_0402Metric_Castellated
+Diode SMD 01005 (0402 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+4
+2
+Diode_SMD
+D_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+4
+2
+Diode_SMD
+D_1206_3216Metric
+Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_1206_3216Metric_Castellated
+Diode SMD 1206 (3216 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_1210_3225Metric
+Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_1210_3225Metric_Castellated
+Diode SMD 1210 (3225 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_1210_3225Metric_Pad1.42x2.65mm_HandSolder
+Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_1812_4532Metric
+Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_1812_4532Metric_Castellated
+Diode SMD 1812 (4532 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_1812_4532Metric_Pad1.30x3.40mm_HandSolder
+Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_2010_5025Metric
+Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_2010_5025Metric_Castellated
+Diode SMD 2010 (5025 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_2010_5025Metric_Pad1.52x2.65mm_HandSolder
+Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_2114_3652Metric
+Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_2114_3652Metric_Castellated
+Diode SMD 2114 (3652 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_2114_3652Metric_Pad1.85x3.75mm_HandSolder
+Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_2512_6332Metric
+Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_2512_6332Metric_Castellated
+Diode SMD 2512 (6332 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
+Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_2816_7142Metric
+Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_2816_7142Metric_Castellated
+Diode SMD 2816 (7142 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_3220_8050Metric
+Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_3220_8050Metric_Castellated
+Diode SMD 3220 (8050 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_3220_8050Metric_Pad2.65x5.15mm_HandSolder
+Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_MELF
+Diode, MELF,,
+Diode MELF 
+0
+2
+2
+Diode_SMD
+D_MELF-RM10_Universal_Handsoldering
+Diode, Universal, MELF, RM10, Handsoldering, SMD, Thruhole,
+Diode Universal MELF RM10 Handsoldering SMD Thruhole 
+0
+2
+2
+Diode_SMD
+D_MELF_Handsoldering
+Diode MELF Handsoldering
+Diode MELF Handsoldering
+0
+2
+2
+Diode_SMD
+D_MicroMELF
+Diode, MicroMELF, Reflow Soldering, http://www.vishay.com/docs/85597/bzm55.pdf
+MicroMELF Diode
+0
+2
+2
+Diode_SMD
+D_MicroMELF_Handsoldering
+Diode, MicroMELF, Hand Soldering, http://www.vishay.com/docs/85597/bzm55.pdf
+MicroMELF Diode
+0
+2
+2
+Diode_SMD
+D_MiniMELF
+Diode Mini-MELF (SOD-80)
+Diode Mini-MELF (SOD-80)
+0
+2
+2
+Diode_SMD
+D_MiniMELF_Handsoldering
+Diode Mini-MELF (SOD-80) Handsoldering
+Diode Mini-MELF (SOD-80) Handsoldering
+0
+2
+2
+Diode_SMD
+D_PowerDI-5
+PowerDI,Diode,Vishay,https://www.diodes.com/assets/Package-Files/PowerDI5.pdf
+PowerDI diode vishay
+0
+3
+2
+Diode_SMD
+D_PowerDI-123
+http://www.diodes.com/_files/datasheets/ds30497.pdf
+PowerDI diode vishay
+0
+2
+2
+Diode_SMD
+D_Powermite2_AK
+Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341)
+PowerMite2
+0
+2
+2
+Diode_SMD
+D_Powermite2_KA
+Microsemi Powermite 2 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5341)
+PowerMite2
+0
+2
+2
+Diode_SMD
+D_Powermite3
+Microsemi Powermite 3 SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5340)
+PowerMite3
+0
+3
+3
+Diode_SMD
+D_Powermite_AK
+Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)
+Powermite
+0
+2
+2
+Diode_SMD
+D_Powermite_KA
+Microsemi Powermite SMD power package (https://www.microsemi.com/packaging-information/partpackage/details?pid=5339, https://www.onsemi.com/pub/Collateral/457-04.PDF)
+Powermite
+0
+2
+2
+Diode_SMD
+D_QFN_3.3x3.3mm_P0.65mm
+QFN, diode, 3.3x3.3x1mm (https://www.wolfspeed.com/media/downloads/846/C3D1P7060Q.pdf)
+diode qfn 3.3
+0
+3
+2
+Diode_SMD
+D_SC-80
+JEITA SC-80
+SC-80
+0
+2
+2
+Diode_SMD
+D_SC-80_HandSoldering
+JEITA SC-80
+SC-80
+0
+2
+2
+Diode_SMD
+D_SMA
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
+0
+2
+2
+Diode_SMD
+D_SMA-SMB_Universal_Handsoldering
+Diode, Universal, SMA (DO-214AC) or SMB (DO-214AA), Handsoldering,
+Diode Universal SMA (DO-214AC) SMB (DO-214AA) Handsoldering 
+0
+2
+2
+Diode_SMD
+D_SMA_Handsoldering
+Diode SMA (DO-214AC) Handsoldering
+Diode SMA (DO-214AC) Handsoldering
+0
+2
+2
+Diode_SMD
+D_SMB
+Diode SMB (DO-214AA)
+Diode SMB (DO-214AA)
+0
+2
+2
+Diode_SMD
+D_SMB-SMC_Universal_Handsoldering
+Diode, Universal, SMB(DO-214AA) or SMC (DO-214AB), Handsoldering,
+Diode Universal SMB(DO-214AA) SMC (DO-214AB) Handsoldering 
+0
+2
+2
+Diode_SMD
+D_SMB_Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+Diode SMB (DO-214AA) Handsoldering
+0
+2
+2
+Diode_SMD
+D_SMB_Modified
+Diode SMB (DO-214AA) Modified (http://www.littelfuse.com/~/media/electronics/datasheets/sidactors/littelfuse_sidactor_battrax_positive_negative_modified_do_214_datasheet.pdf.pdf)
+Diode SMB (DO-214AA)
+0
+3
+3
+Diode_SMD
+D_SMC
+Diode SMC (DO-214AB)
+Diode SMC (DO-214AB)
+0
+2
+2
+Diode_SMD
+D_SMC-RM10_Universal_Handsoldering
+Diode, Universal, SMC (DO-214AB), RM10, Handsoldering, SMD, Thruhole
+Diode Universal SMC (DO-214AB) RM10 Handsoldering SMD Thruhole
+0
+2
+2
+Diode_SMD
+D_SMC_Handsoldering
+Diode SMC (DO-214AB) Handsoldering
+Diode SMC (DO-214AB) Handsoldering
+0
+2
+2
+Diode_SMD
+D_SMF
+Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf
+Diode SMF (DO-214AB)
+0
+2
+2
+Diode_SMD
+D_SOD-110
+SOD-110
+SOD-110
+0
+2
+2
+Diode_SMD
 D_SOD-123
 SOD-123
 SOD-123
 0
 2
 2
-acheronComponents
-D_SOD-123_Bidirectional
-SOD-123
-SOD-123
+Diode_SMD
+D_SOD-123F
+D_SOD-123F
+D_SOD-123F
 0
 2
 2
-acheronComponents
+Diode_SMD
+D_SOD-128
+D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf
+D_SOD-128
+0
+2
+2
+Diode_SMD
 D_SOD-323
 SOD-323
 SOD-323
 0
 2
 2
-acheronComponents
-D_THT_7.62mm
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+Diode_SMD
+D_SOD-323F
+SOD-323F http://www.nxp.com/documents/outline_drawing/SOD323F.pdf
+SOD-323F
 0
 2
 2
-acheronComponents
-D_THT_7.62mm_SOD-123
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-4
-2
-acheronComponents
-E6C1209RGB
-
-
-0
-4
-4
-acheronComponents
-EXC14CG-CE
-
-
-0
-4
-4
-acheronComponents
-Fuse_1812_4532
-Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
-resistor
+Diode_SMD
+D_SOD-323_HandSoldering
+SOD-323
+SOD-323
 0
 2
 2
-acheronComponents
-LED_RGB_SMD_6028_2.8x3.5mm
-
-
-0
-4
-4
-acheronComponents
-LED_RGB_SMD_6028_2.8x3.5mm_Round
-
-
-0
-4
-4
-acheronComponents
-LED_SMD_0805
-
-
+Diode_SMD
+D_SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
 0
 2
 2
-acheronComponents
-LED_SMD_1206
-
-
+Diode_SMD
+D_SOD-923
+https://www.onsemi.com/pub/Collateral/ESD9B-D.PDF#page=4
+Diode SOD923
 0
 2
 2
-acheronComponents
-LED_THT_2.54mm
-
-
+Diode_SMD
+D_SOT-23_ANK
+SOT-23, Single Diode
+SOT-23
 0
-4
+3
 2
-acheronComponents
-LED_WS2812B-Mini_3.5x3.5mm
-https://e-neon.ru/catalog_files/pdf2/ws2812b-mini(3535)%20datasheet-v1.0.pdf
-RGB LED with integrated controller, 3535 package
+Diode_SMD
+D_SOT-23_NKA
+SOT-23, Single Diode
+SOT-23
 0
-4
-4
-acheronComponents
-LED_WS2812B_5.0x5.0mm_P3.2mm
-https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
-LED RGB NeoPixel
-0
-4
-4
-acheronComponents
-LED_WS2812_2020
-
-
-0
-4
-4
-acheronComponents
-LQFP-48_7x7mm_P0.5mm
-LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-LQFP QFP
-0
-48
-48
-acheronComponents
-LQFP48_UFQFPN48_7x7mm_P0.5mm
-LQFP or UFQFPN, 48 Pin (https://www.st.com/resource/en/datasheet/stm32f072cb.pdf)
-LQFP48
-0
-65
-49
-acheronComponents
-MSOP-8-1EP_3x3mm_P0.65mm_EP1.68x1.88mm
-MS8E Package; 8-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081662_K_MS8E.pdf)
-SSOP 0.65
-0
-13
-9
-acheronComponents
-QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm
-QFN, 28 Pin (http://www.issi.com/WW/pdf/31FL3731.pdf#page=21), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-33
-29
-acheronComponents
-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm
-QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-61
-45
-acheronComponents
-R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+3
+2
+Diode_SMD
+D_TUMD2
+ROHM - TUMD2
+TUMD2
 0
 2
 2
-acheronComponents
-R_SMD_1206
-Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
-resistor handsolder
-0
-2
-2
-acheronComponents
-R_THT_5.08mm_Horizontal
-Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
-Resistor Axial_DIN0204 series Axial Horizontal pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
-0
-2
-2
-acheronComponents
-SK6812MINI_3535_6028_3.2x2.8mm_Round
-
-
+Diode_SMD
+Diode_Bridge_Bourns_CD-DF4xxS
+8.1x10.5mm, 4A, single phase bridge rectifier, https://www.bourns.com/docs/Product-Datasheets/CD-DF4xxSL.pdf
+Surface Mount Bridge Rectifier Diode
 0
 4
 4
-acheronComponents
-SOIC-8
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-acheronComponents
-SOP-8_3.76x4.96mm_P1.27mm
-SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOP SO
-0
-8
-8
-acheronComponents
-SOT-23-6
-6-pin SOT-23 package
-SOT-23-6
-0
-6
-6
-acheronComponents
-SOT-143
-SOT-143
-SOT-143
+Diode_SMD
+Diode_Bridge_Diotec_ABS
+SMD diode bridge ABS (Diotec), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/abs2.pdf
+ABS MBLS
 0
 4
 4
-acheronComponents
-SOT-363_SC-70-6
-SOT-363, SC-70-6
-SOT-363 SC-70-6
+Diode_SMD
+Diode_Bridge_Diotec_MicroDil_3.0x3.0x1.8mm
+SMD package Diotec Diotec MicroDil, body 3.0x3.0x1.8mm (e.g. diode bridge), see https://diotec.com/tl_files/diotec/files/pdf/datasheets/mys40.pdf
+Diotec MicroDil diode bridge
 0
-6
-6
-acheronComponents
-TQPF-44_10x10mm_P0.8mm
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
+4
+4
+Diode_SMD
+Diode_Bridge_Diotec_SO-DIL-Slim
+SMD diode bridge Diotec SO-DIL Slim, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40fs.pdf
+DFS SO-DIL Slim
 0
-44
-44
-acheronComponents
-UFQFPN48-EP_7.3x7.3mm_P0.5mm
-UFQFPN, 48 Pin (https://www.st.com/resource/en/datasheet/stm32f072cb.pdf)
-UFQFPN48
+4
+4
+Diode_SMD
+Diode_Bridge_Vishay_DFS
+SMD diode bridge DFS, see http://www.vishay.com/docs/88854/padlayouts.pdf
+DFS
 0
-65
-49
-acheronComponents
-UQFN-48-1EP_6x6mm_P0.4mm_EP4.62x4.62mm
-UQFN, 48 Pin (https://github.com/KiCad/kicad-symbols/pull/1189#issuecomment-449506354), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-UQFN DFN_QFN
+4
+4
+Diode_SMD
+Diode_Bridge_Vishay_DFSFlat
+SMD diode bridge Low Profile DFS "Flat", see http://www.vishay.com/docs/88874/dfl15005.pdf
+DFS
 0
-53
-49
-acheronComponents
-USON-10_2.5x1.0mm_P0.5mm
-USON-10 2.5x1.0mm_ Pitch 0.5mm http://www.ti.com/lit/ds/symlink/tpd4e02b04.pdf
-USON-10 2.5x1.0mm Pitch 0.5mm
+4
+4
+Diode_SMD
+Diode_Bridge_Vishay_MBLS
+SMD diode bridge MBLS, see http://www.vishay.com/docs/89959/mbl104s.pdf http://www.vishay.com/docs/88854/padlayouts.pdf
+DFS
 0
-10
-10
+4
+4
+Diode_SMD
+Littelfuse_PolyZen-LS
+http://m.littelfuse.com/~/media/electronics/datasheets/polyzen_devices/littelfuse_polyzen_standard_polyzen_catalog_datasheet.pdf.pdf
+Diode Polymer Protected Zener Diode Littelfuse LS
+0
+3
+3
