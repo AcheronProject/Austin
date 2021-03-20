@@ -399,7 +399,7 @@
   "schematic": {
     "drawing": {
       "default_bus_thickness": 12.0,
-      "default_junction_size": 40.0,
+      "default_junction_size": 36.0,
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
@@ -421,6 +421,11 @@
         },
         {
           "name": "Manufacturer Part Number",
+          "url": false,
+          "visible": false
+        },
+        {
+          "name": "Description",
           "url": false,
           "visible": false
         }
