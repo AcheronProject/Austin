@@ -18976,7 +18976,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 53.34 498.475 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c2777cf)
     (property "Reference" "SW81" (id 0) (at 32.385 499.11 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -18995,7 +18995,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 53.34 550.545 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060f9bc29)
     (property "Reference" "SW111" (id 0) (at 37.465 554.99 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19014,7 +19014,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 53.975 419.735 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c015e05)
     (property "Reference" "SW3" (id 0) (at 52.705 417.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19033,7 +19033,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 53.975 445.77 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b87e3)
     (property "Reference" "SW22" (id 0) (at 56.515 442.595 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19052,7 +19052,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 53.975 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d741d)
     (property "Reference" "SW43" (id 0) (at 51.435 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19071,7 +19071,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 53.975 497.84 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c2777bf)
     (property "Reference" "SW63" (id 0) (at 43.815 501.015 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19090,7 +19090,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 53.975 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f742759)
     (property "Reference" "SW84" (id 0) (at 36.195 521.97 0)
       (effects (font (size 1.016 1.016)) (justify left))
@@ -19109,7 +19109,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 53.975 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005fd0eec4)
     (property "Reference" "SW101" (id 0) (at 57.785 539.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19128,7 +19128,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 54.61 523.24 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005daf33c9)
     (property "Reference" "SW82" (id 0) (at 36.195 524.51 0)
       (effects (font (size 1.016 1.016)) (justify left))
@@ -19166,7 +19166,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 79.375 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c0d3ad9)
     (property "Reference" "SW4" (id 0) (at 77.47 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19185,7 +19185,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 79.375 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b87f4)
     (property "Reference" "SW23" (id 0) (at 76.835 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19204,7 +19204,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 79.375 471.805 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d7433)
     (property "Reference" "SW44" (id 0) (at 78.105 469.265 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19223,7 +19223,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 79.375 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c2777e3)
     (property "Reference" "SW64" (id 0) (at 76.835 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19242,7 +19242,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 79.375 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d9f141e)
     (property "Reference" "SW85" (id 0) (at 79.375 522.605 0))
     (property "Value" "ISO Slash" (id 1) (at 79.375 525.145 0)
@@ -19259,7 +19259,7 @@
   )
 
   (symbol (lib_name "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue_2") (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 79.375 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006115a11e)
     (property "Reference" "SW102" (id 0) (at 83.185 539.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19278,7 +19278,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 104.775 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c115bc6)
     (property "Reference" "SW5" (id 0) (at 102.87 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19297,7 +19297,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 104.775 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b881c)
     (property "Reference" "SW24" (id 0) (at 102.235 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19316,7 +19316,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 104.775 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d7443)
     (property "Reference" "SW45" (id 0) (at 102.235 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19335,7 +19335,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 104.775 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c2777f3)
     (property "Reference" "SW65" (id 0) (at 102.235 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19354,7 +19354,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 104.775 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f742767)
     (property "Reference" "SW86" (id 0) (at 102.235 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19373,7 +19373,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 104.775 550.545 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f8cf06b)
     (property "Reference" "SW113" (id 0) (at 102.235 548.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19392,7 +19392,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 130.175 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c115bd7)
     (property "Reference" "SW6" (id 0) (at 128.27 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19411,7 +19411,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 130.175 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b8832)
     (property "Reference" "SW25" (id 0) (at 127.635 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19430,7 +19430,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 130.175 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d7457)
     (property "Reference" "SW46" (id 0) (at 127.635 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19449,7 +19449,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 130.175 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c277809)
     (property "Reference" "SW66" (id 0) (at 127.635 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19468,7 +19468,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 130.175 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f74277a)
     (property "Reference" "SW87" (id 0) (at 127.635 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19487,7 +19487,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 155.575 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c12da31)
     (property "Reference" "SW7" (id 0) (at 153.67 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19506,7 +19506,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 155.575 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b8842)
     (property "Reference" "SW26" (id 0) (at 153.035 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19525,7 +19525,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 155.575 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d7467)
     (property "Reference" "SW47" (id 0) (at 153.035 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19544,7 +19544,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 155.575 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c277819)
     (property "Reference" "SW67" (id 0) (at 153.035 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19563,7 +19563,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 155.575 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f742788)
     (property "Reference" "SW88" (id 0) (at 153.035 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19582,7 +19582,7 @@
   )
 
   (symbol (lib_name "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue_4") (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 180.34 550.545 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000061317853)
     (property "Reference" "SW114" (id 0) (at 186.055 537.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19601,7 +19601,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 180.975 419.735 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c12da42)
     (property "Reference" "SW8" (id 0) (at 179.705 417.83 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19620,7 +19620,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 180.975 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b885a)
     (property "Reference" "SW27" (id 0) (at 178.435 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19639,7 +19639,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 180.975 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d747d)
     (property "Reference" "SW48" (id 0) (at 178.435 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19658,7 +19658,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 180.975 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c27782d)
     (property "Reference" "SW68" (id 0) (at 178.435 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19677,7 +19677,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 180.975 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f74279a)
     (property "Reference" "SW89" (id 0) (at 178.435 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19696,7 +19696,7 @@
   )
 
   (symbol (lib_name "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue_5") (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 180.975 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ff864a1)
     (property "Reference" "SW103" (id 0) (at 184.785 539.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19734,7 +19734,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 206.375 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b886a)
     (property "Reference" "SW28" (id 0) (at 203.835 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19753,7 +19753,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 206.375 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d748d)
     (property "Reference" "SW49" (id 0) (at 203.835 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19772,7 +19772,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 206.375 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c27783d)
     (property "Reference" "SW69" (id 0) (at 203.835 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19791,7 +19791,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 206.375 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f7427a8)
     (property "Reference" "SW90" (id 0) (at 203.835 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19810,7 +19810,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 231.775 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c12da6f)
     (property "Reference" "SW10" (id 0) (at 229.87 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19829,7 +19829,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 231.775 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b8880)
     (property "Reference" "SW29" (id 0) (at 229.235 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19848,7 +19848,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 231.775 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d74a1)
     (property "Reference" "SW50" (id 0) (at 229.235 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19867,7 +19867,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 231.775 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c277852)
     (property "Reference" "SW70" (id 0) (at 229.87 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19886,7 +19886,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 231.775 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f7427bb)
     (property "Reference" "SW91" (id 0) (at 229.87 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19905,7 +19905,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 257.175 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c15a34b)
     (property "Reference" "SW11" (id 0) (at 255.27 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19924,7 +19924,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 257.175 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b8890)
     (property "Reference" "SW30" (id 0) (at 254.635 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19943,7 +19943,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 257.175 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d74b1)
     (property "Reference" "SW51" (id 0) (at 254.635 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19962,7 +19962,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 257.175 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c277862)
     (property "Reference" "SW71" (id 0) (at 254.635 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -19981,7 +19981,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 257.175 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f7427c9)
     (property "Reference" "SW92" (id 0) (at 254.635 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20000,7 +20000,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 282.575 419.735 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c15a35c)
     (property "Reference" "SW12" (id 0) (at 281.305 417.195 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20019,7 +20019,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 282.575 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b88a7)
     (property "Reference" "SW31" (id 0) (at 279.4 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20038,7 +20038,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 282.575 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d74c6)
     (property "Reference" "SW52" (id 0) (at 280.035 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20057,7 +20057,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 282.575 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e741073)
     (property "Reference" "SW72" (id 0) (at 280.035 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20076,7 +20076,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 282.575 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f742810)
     (property "Reference" "SW93" (id 0) (at 280.035 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20095,7 +20095,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 307.975 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c15a378)
     (property "Reference" "SW13" (id 0) (at 305.435 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20114,7 +20114,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 307.975 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1b88b7)
     (property "Reference" "SW32" (id 0) (at 305.435 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20133,7 +20133,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 307.975 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d74d6)
     (property "Reference" "SW53" (id 0) (at 305.435 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20152,7 +20152,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 307.975 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e7d14dd)
     (property "Reference" "SW73" (id 0) (at 305.435 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20171,7 +20171,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 307.975 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f742821)
     (property "Reference" "SW94" (id 0) (at 305.435 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20190,7 +20190,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 307.975 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f8cf0c3)
     (property "Reference" "SW104" (id 0) (at 304.8 548.005 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20209,7 +20209,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 333.375 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c15a389)
     (property "Reference" "SW14" (id 0) (at 330.835 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20228,7 +20228,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 333.375 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005da08d2d)
     (property "Reference" "SW33" (id 0) (at 330.835 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20247,7 +20247,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 333.375 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005df95cc5)
     (property "Reference" "SW54" (id 0) (at 330.835 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20266,7 +20266,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 333.375 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e862837)
     (property "Reference" "SW74" (id 0) (at 330.835 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20285,7 +20285,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 333.375 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f742832)
     (property "Reference" "SW95" (id 0) (at 330.835 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20304,7 +20304,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 333.375 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000602dc8c6)
     (property "Reference" "SW105" (id 0) (at 330.2 548.005 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20323,7 +20323,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 358.14 497.205 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e9fc89a)
     (property "Reference" "SW62" (id 0) (at 358.14 500.38 0))
     (property "Value" "MXSwitch" (id 1) (at 368.935 501.015 90)
@@ -20340,7 +20340,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 358.775 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d26a780)
     (property "Reference" "SW15" (id 0) (at 356.235 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20359,7 +20359,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 358.775 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005da84f26)
     (property "Reference" "SW34" (id 0) (at 356.235 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20378,7 +20378,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 358.775 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e01bef5)
     (property "Reference" "SW55" (id 0) (at 356.235 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20397,7 +20397,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 358.775 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e8f5421)
     (property "Reference" "SW75" (id 0) (at 358.14 495.935 0))
     (property "Value" "MXSwitch" (id 1) (at 367.03 501.015 90)
@@ -20414,7 +20414,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 358.775 523.24 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d60c510)
     (property "Reference" "SW83" (id 0) (at 356.235 521.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20433,7 +20433,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 358.775 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f8cf0b2)
     (property "Reference" "SW106" (id 0) (at 355.6 548.005 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20452,7 +20452,7 @@
   )
 
   (symbol (lib_name "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue_3") (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 383.54 471.17 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d935c45)
     (property "Reference" "SW42" (id 0) (at 381 469.9 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20471,7 +20471,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 384.175 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d2dd902)
     (property "Reference" "SW16" (id 0) (at 381.635 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20490,7 +20490,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 384.175 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005db80f5e)
     (property "Reference" "SW35" (id 0) (at 372.11 448.31 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20509,7 +20509,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 384.175 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e0a36ab)
     (property "Reference" "SW56" (id 0) (at 381.635 475.615 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20528,7 +20528,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 384.175 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e98912a)
     (property "Reference" "SW76" (id 0) (at 381.635 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20547,7 +20547,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 384.175 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000615d8558)
     (property "Reference" "SW96" (id 0) (at 381.635 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20566,7 +20566,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 384.175 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f8cf0d4)
     (property "Reference" "SW107" (id 0) (at 381 548.005 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20585,7 +20585,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 408.94 446.405 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005db032f4)
     (property "Reference" "SW41" (id 0) (at 396.875 448.945 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20604,7 +20604,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 409.575 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d351f9b)
     (property "Reference" "SW17" (id 0) (at 407.035 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20623,7 +20623,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 409.575 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005dd07806)
     (property "Reference" "SW36" (id 0) (at 412.75 436.245 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20642,7 +20642,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 409.575 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e241921)
     (property "Reference" "SW57" (id 0) (at 407.035 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20661,7 +20661,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 409.575 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000615c8eb2)
     (property "Reference" "SW77" (id 0) (at 407.035 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20680,7 +20680,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 409.575 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f8cefc7)
     (property "Reference" "SW97" (id 0) (at 407.035 523.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20699,7 +20699,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 409.575 550.545 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005df0f87a)
     (property "Reference" "SW115" (id 0) (at 412.75 541.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20718,7 +20718,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 434.34 550.545 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d72a694)
     (property "Reference" "SW116" (id 0) (at 419.735 556.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20737,7 +20737,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 434.975 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d3c7b17)
     (property "Reference" "SW18" (id 0) (at 433.07 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20756,7 +20756,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 434.975 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005dd879e9)
     (property "Reference" "SW37" (id 0) (at 432.435 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20775,7 +20775,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 434.975 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e2cba2d)
     (property "Reference" "SW58" (id 0) (at 432.435 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20794,7 +20794,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 434.975 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f742725)
     (property "Reference" "SW78" (id 0) (at 432.435 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20813,7 +20813,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 434.975 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f8cf009)
     (property "Reference" "SW98" (id 0) (at 432.435 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20832,7 +20832,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 434.975 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000615dcbc8)
     (property "Reference" "SW108" (id 0) (at 431.8 548.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20851,7 +20851,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 460.375 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d53eb66)
     (property "Reference" "SW19" (id 0) (at 458.47 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20870,7 +20870,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 460.375 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005de08dfe)
     (property "Reference" "SW38" (id 0) (at 458.47 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20889,7 +20889,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 460.375 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e4744f8)
     (property "Reference" "SW59" (id 0) (at 457.835 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20908,7 +20908,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 460.375 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f742739)
     (property "Reference" "SW79" (id 0) (at 457.835 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20927,7 +20927,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 460.375 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f8cf04a)
     (property "Reference" "SW99" (id 0) (at 457.835 522.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20946,7 +20946,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 460.375 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000060ebfd0c)
     (property "Reference" "SW109" (id 0) (at 457.2 549.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20965,7 +20965,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 485.775 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d90e9a1)
     (property "Reference" "SW20" (id 0) (at 483.87 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -20984,7 +20984,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 485.775 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005de8bb2b)
     (property "Reference" "SW39" (id 0) (at 483.235 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -21003,7 +21003,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 485.775 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ea215d9)
     (property "Reference" "SW60" (id 0) (at 483.235 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -21022,7 +21022,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 485.775 497.84 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000613f87a0)
     (property "Reference" "SW80" (id 0) (at 482.6 496.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -21041,7 +21041,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 485.775 523.875 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f8cf05d)
     (property "Reference" "SW100" (id 0) (at 483.235 523.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -21060,7 +21060,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 485.775 549.91 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000069c034e5)
     (property "Reference" "SW110" (id 0) (at 482.6 548.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -21079,7 +21079,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 511.175 419.735 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d9897e0)
     (property "Reference" "SW21" (id 0) (at 509.27 418.465 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -21098,7 +21098,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 511.175 445.77 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c1d740d)
     (property "Reference" "SW40" (id 0) (at 508.635 444.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -21117,7 +21117,7 @@
   )
 
   (symbol (lib_id "austin-rescue:MXSwitch-acheronSymbols-austin-rescue-austin-rescue") (at 511.175 471.805 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d4bb027)
     (property "Reference" "SW61" (id 0) (at 508 470.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
