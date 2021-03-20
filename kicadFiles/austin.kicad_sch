@@ -17491,7 +17491,7 @@
     (property "Reference" "F1" (id 0) (at 345.44 35.9156 90)
       (effects (font (size 0.7874 0.7874)))
     )
-    (property "Value" "miniSMDC110F" (id 1) (at 345.44 37.465 90)
+    (property "Value" "RF1338-000" (id 1) (at 345.44 37.465 90)
       (effects (font (size 0.7874 0.7874)))
     )
     (property "Footprint" "acheronComponents:Fuse_1812_4532" (id 2) (at 340.36 41.275 0)
@@ -17503,7 +17503,7 @@
     (property "Manufacturer" "Littelfuse" (id 4) (at 345.44 40.005 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Manufacturer Part Number" "miniSMDC110F" (id 5) (at 345.44 40.005 0)
+    (property "Manufacturer Part Number" "RF1338-000" (id 5) (at 345.44 40.005 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC Part Number" "C207188" (id 6) (at 345.44 40.005 0)
@@ -19769,13 +19769,25 @@
     (property "Reference" "D2" (id 0) (at 348.615 45.085 90)
       (effects (font (size 0.7874 0.7874)) (justify left))
     )
-    (property "Value" "SMF6.0C" (id 1) (at 350.52 46.99 90)
+    (property "Value" "SMF6.0A" (id 1) (at 350.52 46.99 90)
       (effects (font (size 0.7874 0.7874)) (justify right))
     )
     (property "Footprint" "acheronComponents:D_SOD-123" (id 2) (at 353.06 45.085 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 353.06 45.085 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Package" "SOD-123FL" (id 4) (at 353.06 45.085 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part Number" "C362319" (id 5) (at 353.06 45.085 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer" "LGE" (id 6) (at 353.06 45.085 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer Part Number" "SMF6.0A" (id 7) (at 353.06 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 9d56c365-cc8c-43de-94f7-4df9b71e70c5))
@@ -19909,6 +19921,18 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 379.095 27.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Package" "SOD-123" (id 4) (at 379.095 27.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part Number" "C114257" (id 5) (at 379.095 27.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer" "ROHM" (id 6) (at 379.095 27.94 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer Part Number" "RB060M-60TR" (id 7) (at 379.095 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 050efd5b-a000-4d3a-9493-5443f0e20594))
@@ -21162,15 +21186,24 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e070bed)
     (property "Reference" "SW1" (id 0) (at 195.58 170.18 0)
-      (effects (font (size 0.7874 0.7874)))
+      (effects (font (size 0.762 0.762)))
     )
-    (property "Value" "SW_Push" (id 1) (at 195.58 170.7134 0)
-      (effects (font (size 0.7874 0.7874)) hide)
+    (property "Value" "K2-1187SQ-A4SW-06" (id 1) (at 195.58 177.6984 0)
+      (effects (font (size 0.762 0.762)))
     )
     (property "Footprint" "acheronHardware:K2-1187SQ-A4SW-06" (id 2) (at 195.58 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 195.58 170.18 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part Number" "C92584" (id 4) (at 195.58 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer" "Korean Hroparts" (id 5) (at 195.58 175.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer Part Number" "K2-1187SQ-A4SW-06" (id 6) (at 195.58 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 082709e5-76cd-44ca-a7b0-8679b77c1e9d))
@@ -21209,7 +21242,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 278.765 109.855 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e6e87e8)
     (property "Reference" "LEDSCR1" (id 0) (at 279.4 106.68 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21228,7 +21261,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 286.385 109.855 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e7e8e17)
     (property "Reference" "LEDNUM1" (id 0) (at 287.02 106.68 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21247,7 +21280,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 294.005 109.855 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e8e84fa)
     (property "Reference" "LEDCAPS1" (id 0) (at 294.64 106.68 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21266,7 +21299,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 589.915 492.76 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063404f5c)
     (property "Reference" "LED80" (id 0) (at 584.835 495.3 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21285,7 +21318,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 590.55 508.635 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e30a77e)
     (property "Reference" "LED99" (id 0) (at 586.105 504.825 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21323,7 +21356,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 593.09 444.5 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb24)
     (property "Reference" "LED22" (id 0) (at 593.725 441.325 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21342,7 +21375,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 593.09 461.01 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b1a)
     (property "Reference" "LED42" (id 0) (at 593.725 457.835 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21361,7 +21394,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 593.09 492.76 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006392967d)
     (property "Reference" "LED81" (id 0) (at 593.725 489.585 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21380,7 +21413,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 593.09 508.635 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063c2c62d)
     (property "Reference" "LED100" (id 0) (at 584.2 508.635 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21399,7 +21432,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 599.44 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d607b0e)
     (property "Reference" "LED102" (id 0) (at 601.345 516.89 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21437,7 +21470,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 600.71 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb30)
     (property "Reference" "LED24" (id 0) (at 601.345 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21456,7 +21489,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 600.71 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b26)
     (property "Reference" "LED44" (id 0) (at 601.345 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21475,7 +21508,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 600.71 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063883139)
     (property "Reference" "LED64" (id 0) (at 601.345 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21494,7 +21527,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 600.71 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063929689)
     (property "Reference" "LED86" (id 0) (at 601.345 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21513,7 +21546,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 600.71 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d077f)
     (property "Reference" "LED103" (id 0) (at 602.615 516.89 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21532,7 +21565,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 608.33 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063195305)
     (property "Reference" "LED6" (id 0) (at 608.965 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21551,7 +21584,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 608.33 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb3c)
     (property "Reference" "LED25" (id 0) (at 608.965 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21570,7 +21603,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 608.33 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b32)
     (property "Reference" "LED45" (id 0) (at 608.965 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21589,7 +21622,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 608.33 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063883145)
     (property "Reference" "LED65" (id 0) (at 608.965 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21608,7 +21641,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 608.33 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063929695)
     (property "Reference" "LED87" (id 0) (at 608.965 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21627,7 +21660,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 608.33 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d078b)
     (property "Reference" "LED104" (id 0) (at 608.965 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21646,7 +21679,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 615.95 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063195311)
     (property "Reference" "LED7" (id 0) (at 616.585 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21665,7 +21698,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 615.95 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb48)
     (property "Reference" "LED26" (id 0) (at 616.585 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21684,7 +21717,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 615.95 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b3e)
     (property "Reference" "LED46" (id 0) (at 616.585 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21703,7 +21736,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 615.95 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063883151)
     (property "Reference" "LED66" (id 0) (at 616.585 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21722,7 +21755,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 615.95 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639296a1)
     (property "Reference" "LED88" (id 0) (at 616.585 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21741,7 +21774,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 623.57 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006322fbdb)
     (property "Reference" "LED8" (id 0) (at 624.205 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21760,7 +21793,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 623.57 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb54)
     (property "Reference" "LED27" (id 0) (at 624.205 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21779,7 +21812,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 623.57 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b4a)
     (property "Reference" "LED47" (id 0) (at 624.205 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21817,7 +21850,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 623.57 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639296ad)
     (property "Reference" "LED89" (id 0) (at 624.205 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21836,7 +21869,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 629.92 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005e0b3f58)
     (property "Reference" "LED105" (id 0) (at 632.46 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21855,7 +21888,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 631.19 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006322fbe7)
     (property "Reference" "LED9" (id 0) (at 631.825 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21874,7 +21907,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 631.19 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb60)
     (property "Reference" "LED28" (id 0) (at 631.825 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21893,7 +21926,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 631.19 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b56)
     (property "Reference" "LED48" (id 0) (at 631.825 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21912,7 +21945,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 631.19 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063883169)
     (property "Reference" "LED68" (id 0) (at 631.825 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21931,7 +21964,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 631.19 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639296b9)
     (property "Reference" "LED90" (id 0) (at 631.825 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21950,7 +21983,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 631.19 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d07af)
     (property "Reference" "LED106" (id 0) (at 625.475 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21969,7 +22002,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 638.81 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006322fbf3)
     (property "Reference" "LED10" (id 0) (at 639.445 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -21988,7 +22021,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 638.81 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb6c)
     (property "Reference" "LED29" (id 0) (at 639.445 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22007,7 +22040,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 638.81 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b62)
     (property "Reference" "LED49" (id 0) (at 639.445 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22026,7 +22059,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 638.81 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063883175)
     (property "Reference" "LED69" (id 0) (at 639.445 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22045,7 +22078,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 638.81 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639296c5)
     (property "Reference" "LED91" (id 0) (at 639.445 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22064,7 +22097,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 646.43 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006322fbff)
     (property "Reference" "LED11" (id 0) (at 647.065 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22083,7 +22116,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 646.43 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb78)
     (property "Reference" "LED30" (id 0) (at 647.065 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22102,7 +22135,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 646.43 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b6e)
     (property "Reference" "LED50" (id 0) (at 647.065 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22121,7 +22154,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 646.43 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063883181)
     (property "Reference" "LED70" (id 0) (at 647.065 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22140,7 +22173,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 646.43 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639296d1)
     (property "Reference" "LED92" (id 0) (at 647.065 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22159,7 +22192,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 654.05 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006340f979)
     (property "Reference" "LED12" (id 0) (at 654.685 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22178,7 +22211,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 654.05 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb84)
     (property "Reference" "LED31" (id 0) (at 654.685 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22197,7 +22230,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 654.05 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b7a)
     (property "Reference" "LED51" (id 0) (at 654.685 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22216,7 +22249,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 654.05 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006388318d)
     (property "Reference" "LED71" (id 0) (at 654.685 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22235,7 +22268,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 654.05 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639296dd)
     (property "Reference" "LED93" (id 0) (at 654.685 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22254,7 +22287,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 661.67 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006340f985)
     (property "Reference" "LED13" (id 0) (at 662.305 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22273,7 +22306,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 661.67 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb90)
     (property "Reference" "LED32" (id 0) (at 662.305 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22292,7 +22325,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 661.67 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b86)
     (property "Reference" "LED52" (id 0) (at 662.305 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22311,7 +22344,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 661.67 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063883199)
     (property "Reference" "LED72" (id 0) (at 662.305 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22330,7 +22363,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 661.67 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639296e9)
     (property "Reference" "LED94" (id 0) (at 662.305 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22349,7 +22382,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 661.67 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d07df)
     (property "Reference" "LED107" (id 0) (at 662.305 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22368,7 +22401,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 669.29 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006340f991)
     (property "Reference" "LED14" (id 0) (at 669.925 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22387,7 +22420,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 669.29 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cb9c)
     (property "Reference" "LED33" (id 0) (at 669.925 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22406,7 +22439,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 669.29 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b92)
     (property "Reference" "LED53" (id 0) (at 669.925 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22425,7 +22458,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 669.29 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000638831b1)
     (property "Reference" "LED73" (id 0) (at 669.925 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22444,7 +22477,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 669.29 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639296f5)
     (property "Reference" "LED95" (id 0) (at 669.925 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22463,7 +22496,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 669.29 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d07eb)
     (property "Reference" "LED108" (id 0) (at 669.925 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22482,7 +22515,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 676.91 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006340f99d)
     (property "Reference" "LED15" (id 0) (at 677.545 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22501,7 +22534,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 676.91 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cba8)
     (property "Reference" "LED34" (id 0) (at 677.545 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22520,7 +22553,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 676.91 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744b9e)
     (property "Reference" "LED54" (id 0) (at 677.545 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22539,7 +22572,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 676.91 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005da221b4)
     (property "Reference" "LED74" (id 0) (at 673.1 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22558,7 +22591,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 676.91 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006392970d)
     (property "Reference" "LED96" (id 0) (at 677.545 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22577,7 +22610,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 676.91 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d07f7)
     (property "Reference" "LED109" (id 0) (at 677.545 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22596,7 +22629,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 684.53 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006340f9a9)
     (property "Reference" "LED16" (id 0) (at 685.165 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22615,7 +22648,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 684.53 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cbb4)
     (property "Reference" "LED35" (id 0) (at 685.165 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22634,7 +22667,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 684.53 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744baa)
     (property "Reference" "LED55" (id 0) (at 685.165 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22653,7 +22686,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 684.53 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ec374a6)
     (property "Reference" "LED75" (id 0) (at 685.8 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22672,7 +22705,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 684.53 492.76 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005dd3cc0d)
     (property "Reference" "LED82" (id 0) (at 685.165 489.585 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22691,7 +22724,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 684.53 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d0803)
     (property "Reference" "LED110" (id 0) (at 685.165 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22710,7 +22743,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 692.15 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006340f9b5)
     (property "Reference" "LED17" (id 0) (at 692.785 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22729,7 +22762,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 692.15 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cbc0)
     (property "Reference" "LED36" (id 0) (at 692.785 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22748,7 +22781,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 692.15 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744bb6)
     (property "Reference" "LED56" (id 0) (at 688.34 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22767,7 +22800,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 692.15 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005db28da7)
     (property "Reference" "LED76" (id 0) (at 692.785 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22786,7 +22819,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 693.42 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005ddba94a)
     (property "Reference" "LED57" (id 0) (at 694.055 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22805,7 +22838,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 697.23 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006386a58d)
     (property "Reference" "LED97" (id 0) (at 692.15 500.38 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22824,7 +22857,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 698.5 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d0d10ae)
     (property "Reference" "LED37" (id 0) (at 695.96 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22843,7 +22876,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 699.77 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006340f9c1)
     (property "Reference" "LED18" (id 0) (at 700.405 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22862,7 +22895,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 699.77 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cbcc)
     (property "Reference" "LED38" (id 0) (at 700.405 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22881,7 +22914,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 699.77 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744bc2)
     (property "Reference" "LED58" (id 0) (at 700.405 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22900,7 +22933,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 699.77 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f67496d)
     (property "Reference" "LED77" (id 0) (at 700.405 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22919,7 +22952,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 699.77 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d081b)
     (property "Reference" "LED111" (id 0) (at 700.405 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22938,7 +22971,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 706.12 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006404fd5d)
     (property "Reference" "LED112" (id 0) (at 703.58 518.16 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22957,7 +22990,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 707.39 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006340f9cd)
     (property "Reference" "LED19" (id 0) (at 708.025 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22976,7 +23009,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 707.39 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cbe4)
     (property "Reference" "LED39" (id 0) (at 708.025 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -22995,7 +23028,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 707.39 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744bce)
     (property "Reference" "LED59" (id 0) (at 708.025 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23014,7 +23047,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 707.39 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000638831d5)
     (property "Reference" "LED78" (id 0) (at 708.025 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23033,7 +23066,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 707.39 492.76 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063929731)
     (property "Reference" "LED83" (id 0) (at 708.025 489.585 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23052,7 +23085,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 707.39 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d0827)
     (property "Reference" "LED113" (id 0) (at 708.025 518.16 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23071,7 +23104,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 715.01 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000635e12d0)
     (property "Reference" "LED20" (id 0) (at 715.645 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23090,7 +23123,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 715.01 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cbf0)
     (property "Reference" "LED40" (id 0) (at 715.645 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23109,7 +23142,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 715.01 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744bda)
     (property "Reference" "LED60" (id 0) (at 715.645 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23128,7 +23161,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 715.01 481.965 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000638831e1)
     (property "Reference" "LED79" (id 0) (at 715.645 478.79 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23147,7 +23180,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 715.01 497.84 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006392973d)
     (property "Reference" "LED98" (id 0) (at 715.645 494.665 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23166,7 +23199,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 715.01 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d0833)
     (property "Reference" "LED114" (id 0) (at 715.645 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23185,7 +23218,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 722.63 433.07 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000635e12dc)
     (property "Reference" "LED21" (id 0) (at 723.265 429.895 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23204,7 +23237,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 722.63 449.58 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006369cbfc)
     (property "Reference" "LED41" (id 0) (at 723.265 446.405 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23223,7 +23256,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 722.63 466.09 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063744be6)
     (property "Reference" "LED61" (id 0) (at 723.265 462.915 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23242,7 +23275,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 722.63 476.885 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000638831ed)
     (property "Reference" "LED62" (id 0) (at 723.265 473.71 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23261,7 +23294,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 722.63 492.76 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063929749)
     (property "Reference" "LED84" (id 0) (at 723.265 489.585 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23280,7 +23313,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 722.63 513.715 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d083f)
     (property "Reference" "LED115" (id 0) (at 723.265 510.54 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23299,7 +23332,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 730.25 427.99 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000635e12e8)
     (property "Reference" "LED3" (id 0) (at 730.885 424.815 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23318,7 +23351,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 730.25 444.5 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d4f2e76)
     (property "Reference" "LED23" (id 0) (at 730.885 441.325 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23337,7 +23370,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 730.25 461.01 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d80c3af)
     (property "Reference" "LED43" (id 0) (at 730.885 457.835 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23356,7 +23389,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 730.25 476.885 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005edecad3)
     (property "Reference" "LED63" (id 0) (at 730.885 473.71 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23375,7 +23408,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 730.25 492.76 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-000063929755)
     (property "Reference" "LED85" (id 0) (at 730.885 489.585 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23394,7 +23427,7 @@
   )
 
   (symbol (lib_id "austin-rescue:LED-acheronSymbols-austin-rescue-austin-rescue") (at 730.25 508.635 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000639d084b)
     (property "Reference" "LED101" (id 0) (at 735.33 511.175 90)
       (effects (font (size 0.508 0.508)) (justify left))
@@ -23473,12 +23506,12 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 137.795 31.115 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 61a17a8a-02a8-413c-bfdf-6da380f643f3)
     (property "Reference" "J1" (id 0) (at 140.97 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x04" (id 1) (at 140.97 33.02 0)
+    (property "Value" "EXTRA PINS" (id 1) (at 140.97 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "acheronConnectors:PinHeader_1x4_P2.54mm_Vertical" (id 2) (at 137.795 31.115 0)
@@ -23529,12 +23562,24 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d249555)
     (property "Reference" "Q1" (id 0) (at 202.565 154.305 90))
-    (property "Value" "DTC123J" (id 1) (at 202.565 156.6164 90))
+    (property "Value" "DTC123JKAT146" (id 1) (at 202.565 156.6164 90))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 202.565 162.56 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 202.565 162.56 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
+    (property "Package" "SOT-23" (id 4) (at 202.565 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part Number" "C111724" (id 5) (at 202.565 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer" "ROHM" (id 6) (at 202.565 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer Part Number" "DTC123JKAT146" (id 7) (at 202.565 162.56 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0a70dc9a-3f44-4186-83b1-807ca42d2b9f))
     (pin "2" (uuid 993e9600-a79a-4f46-b459-104b6dcdea75))
@@ -23574,7 +23619,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x04_Odd_Even") (at 285.75 45.72 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000612b01ad)
     (property "Reference" "J2" (id 0) (at 287.02 37.465 0))
     (property "Value" "ARM SWD" (id 1) (at 287.02 40.005 0))
@@ -23600,7 +23645,7 @@
     (property "Reference" "U1" (id 0) (at 379.095 34.9758 0)
       (effects (font (size 0.7874 0.7874)))
     )
-    (property "Value" "MCP1700-3302E_SOT23" (id 1) (at 379.095 36.5506 0)
+    (property "Value" "MCP1700T-3302E/TT" (id 1) (at 379.095 36.5506 0)
       (effects (font (size 0.7874 0.7874)))
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 379.095 34.29 0)
@@ -26704,11 +26749,20 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005d05afc6)
     (property "Reference" "J3" (id 0) (at 209.0928 24.9682 0))
-    (property "Value" "TYPE-C-31-M12" (id 1) (at 209.7278 27.2796 0))
+    (property "Value" "TYPE-C-31-M-12" (id 1) (at 209.7278 27.2796 0))
     (property "Footprint" "acheronConnectors:TYPE-C-31-M-12" (id 2) (at 213.36 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 213.36 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC Part Number" "C2760486" (id 4) (at 209.55 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer" "Korean Hroparts" (id 5) (at 209.55 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Manufacturer Part Number" "TYPE-C-31-M-12" (id 6) (at 209.55 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "A1" (uuid 5c042c00-2496-494e-9505-daf11354cc15))
@@ -27128,7 +27182,7 @@
       (reference "D1") (unit 1) (value "RB060M-60TR") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c2ffe6a"
-      (reference "D2") (unit 1) (value "SMF6.0C") (footprint "acheronComponents:D_SOD-123")
+      (reference "D2") (unit 1) (value "SMF6.0A") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005e071566"
       (reference "D3") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
@@ -27509,7 +27563,7 @@
       (reference "D128") (unit 1) (value "1N4148") (footprint "acheronComponents:D_SOD-123")
     )
     (path "/00000000-0000-0000-0000-00005c25b88f"
-      (reference "F1") (unit 1) (value "miniSMDC110F") (footprint "acheronComponents:Fuse_1812_4532")
+      (reference "F1") (unit 1) (value "RF1338-000") (footprint "acheronComponents:Fuse_1812_4532")
     )
     (path "/25169f84-1bf0-4e71-82c3-a01cbe735ec9"
       (reference "FB1") (unit 1) (value "CBW321609U121T") (footprint "Inductor_SMD:L_1206_3216Metric")
@@ -27527,13 +27581,13 @@
       (reference "GR4") (unit 1) (value "Warning sign") (footprint "acheron_Graphics:warning_sign_3.6x3.2mm")
     )
     (path "/61a17a8a-02a8-413c-bfdf-6da380f643f3"
-      (reference "J1") (unit 1) (value "Conn_01x04") (footprint "acheronConnectors:PinHeader_1x4_P2.54mm_Vertical")
+      (reference "J1") (unit 1) (value "EXTRA PINS") (footprint "acheronConnectors:PinHeader_1x4_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-0000612b01ad"
       (reference "J2") (unit 1) (value "ARM SWD") (footprint "acheronConnectors:Conn_ARM_JTAG_SWD_8")
     )
     (path "/00000000-0000-0000-0000-00005d05afc6"
-      (reference "J3") (unit 1) (value "TYPE-C-31-M12") (footprint "acheronConnectors:TYPE-C-31-M-12")
+      (reference "J3") (unit 1) (value "TYPE-C-31-M-12") (footprint "acheronConnectors:TYPE-C-31-M-12")
     )
     (path "/00000000-0000-0000-0000-00005d596b36"
       (reference "L1") (unit 1) (value "Drift Mechanics Logo") (footprint "austinLogo:driftMechanics_logo")
@@ -27905,7 +27959,7 @@
       (reference "LEDSCR1") (unit 1) (value "LED") (footprint "acheronComponents:LED_THT_2.54mm")
     )
     (path "/00000000-0000-0000-0000-00005d249555"
-      (reference "Q1") (unit 1) (value "DTC123J") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "Q1") (unit 1) (value "DTC123JKAT146") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/e09faafa-0ff8-4c31-9616-e4ae46d78c83"
       (reference "Q2") (unit 1) (value "AO3401A") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -28334,7 +28388,7 @@
       (reference "R140") (unit 1) (value "470R") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-00005e070bed"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "acheronHardware:K2-1187SQ-A4SW-06")
+      (reference "SW1") (unit 1) (value "K2-1187SQ-A4SW-06") (footprint "acheronHardware:K2-1187SQ-A4SW-06")
     )
     (path "/b162f058-e41a-45a7-86d0-fcfe83468399"
       (reference "SW2") (unit 1) (value "PCM12SMTR") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")
@@ -28682,7 +28736,7 @@
       (reference "SW116") (unit 1) (value "MXSwitch") (footprint "acheron_MX:MX200")
     )
     (path "/621ad012-5a14-4558-9afe-5a8cbcce5c28"
-      (reference "U1") (unit 1) (value "MCP1700-3302E_SOT23") (footprint "Package_TO_SOT_SMD:SOT-23")
+      (reference "U1") (unit 1) (value "MCP1700T-3302E/TT") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/00000000-0000-0000-0000-00006623d717"
       (reference "U2") (unit 1) (value "STM32F072CBT6") (footprint "acheronComponents:LQFP48_UFQFPN48_7x7mm_P0.5mm")
