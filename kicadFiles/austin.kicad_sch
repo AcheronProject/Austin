@@ -4,8 +4,8 @@
 
   (title_block
     (title "AustinPCB")
-    (date "2021-03-08")
-    (rev "v2.0.8")
+    (date "2021-03-20")
+    (rev "v2.1.0")
     (company "Designed by Gondolindrim")
     (comment 1 "In partnership with driftingbunnies and PheonixStar")
   )
