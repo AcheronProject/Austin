@@ -15,7 +15,7 @@ The Austin is a fullsize compact keyboard featuring a variant of the 1800CP layo
 - Lighting: per-key single-color through-hole LEDs. Pre-Release Beta also has RGB underglow.
 - Microcontroller: STM32F072(X)(Y)(Z), where:
   * x can be either 8 (64kB flash variant) or B (128kB flash variant)
-  * Y can be either C (LQFP48 package) or U (UQFPFPN48 package)
+  * Y can be either C (LQFP48 package) or U (UFQFPN48 package)
   * Z can be either 6 or 7 (higher temperature grade)
 - Connector: fixed USB Type C on the bottom side, no JST connector
 - Firmware compatibility: QMK (with VIA support)
@@ -36,9 +36,10 @@ This PCB is designed to be made-to-fit the Austin keyboard and, as such, the onl
 
 ## Acknowledgements
 
-- The first prototypes of this PCB were paid for and tested by KeebsForAll, who also intends to make units of this PCB available for purchase.
-
-- Geon, who kindly spent time helping design this PCB to fit his keyboards.
+- DriftingBunnies, owner of DriftingMechanics, for keeping hopes up for me and allowing this PCB to be open-sourced
+- PheonixStarr for the laugh moments (one of which eternalized in this PCB's label)
+- ArcticFox, who recommended me to DriftingBunnies
+- MrKeebs and Shadowfax, from the brazilian MrKeebs Discord server for the support, including getting an Austin themselves
 
 ## Copyright notice
 
