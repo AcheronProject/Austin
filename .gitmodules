@@ -1,0 +1,12 @@
+[submodule "kicad_files/libraries/acheron_Components.pretty"]
+	path = kicad_files/libraries/acheron_Components.pretty
+	url = git@github.com:AcheronProject/acheron_Components.pretty.git
+[submodule "kicad_files/libraries/acheron_Hardware.pretty"]
+	path = kicad_files/libraries/acheron_Hardware.pretty
+	url = git@github.com:AcheronProject/acheron_Hardware.pretty.git
+[submodule "kicad_files/libraries/acheron_MX_soldermask.pretty"]
+	path = kicad_files/libraries/acheron_MX_soldermask.pretty
+	url = git@github.com:AcheronProject/acheron_MX_soldermask.pretty.git
+[submodule "kicad_files/libraries/acheron_Connectors.pretty"]
+	path = kicad_files/libraries/acheron_Connectors.pretty
+	url = git@github.com:AcheronProject/acheron_Connectors.pretty.git
