@@ -1,24 +1,8 @@
-# For PCBs designed using KiCad: http://www.kicad-pcb.org/
-# Format documentation: http://kicad-pcb.org/help/file-formats/
+kicad_files/austin-backups/
+release/
 
-# Temporary files
-*.000
-*.bak
-*.bck
-*.kicad_pcb-bak
-*~
-_autosave-*
-*.tmp
-*-rescue.lib
-*-save.pro
-*-save.kicad_pcb
-
-# Netlist files (exported from Eeschema)
-*.net
-
-# Autorouter files (exported from Pcbnew)
-*.dsn
-*.ses
-
-# Final manufacturing files meant for release
-manuFiles/
+plate/austin_plate.prl
+plate/austin_plate.pro
+plate/austin_plate.sch
+plate/austin_plate-backups
+plate/austin_plate.fp-info-cache

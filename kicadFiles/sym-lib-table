@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "acheronSymbols")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/symbols/acheronSymbols.kicad_sym")(options "")(descr ""))
-)
