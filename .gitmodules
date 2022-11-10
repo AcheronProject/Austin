@@ -22,3 +22,6 @@
 [submodule "kicad_files/libraries/acheron_3D"]
 	path = kicad_files/libraries/acheron_3D
 	url = git@github.com:AcheronProject/acheron_3D.git
+[submodule "kicad_files/libraries/gondolindrim_kicad_logos"]
+	path = kicad_files/libraries/gondolindrim_kicad_logos
+	url = git@github.com:Gondolindrim/gondolindrim_kicad_logos.git

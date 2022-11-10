@@ -5,5 +5,6 @@
   (lib (name "acheron_Logos")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Logos.pretty")(options "")(descr ""))
   (lib (name "austin_lib")(type "KiCad")(uri "${KIPRJMOD}/libraries/austin_lib.pretty")(options "")(descr ""))
   (lib (name "acheron_MX_soldermask")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_MX_soldermask.pretty")(options "")(descr ""))
-  (lib (name "acheron_Graphics")(type "KiCad")(uri "${KIPRJMOD}/AcheronLibrary/footprints/acheron_Graphics.pretty")(options "")(descr ""))
+  (lib (name "acheron_Graphics")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Graphics.pretty")(options "")(descr ""))
+  (lib (name "gondolindrim_kicad_logos")(type "KiCad")(uri "${KIPRJMOD}/libraries/gondolindrim_kicad_logos/gondolindrim_kicad_logos.pretty")(options "")(descr ""))
 )
